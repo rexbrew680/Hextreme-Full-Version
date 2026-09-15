@@ -233,4 +233,4 @@ This repository serves as the official landing page for HEXtreme. The software i
 **Get the most recent version of HEXtreme today!**
 
 ---
-**Last updated:** 2026-09-14 23:33:41 UTC
+**Last updated:** 2026-09-15 02:17:55 UTC
